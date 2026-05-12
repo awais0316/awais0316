@@ -21,8 +21,8 @@ const awais = {
   username:   "awais0316",
   role:       "Full Stack Developer",
   stack:      ["React", "Next.js", "TypeScript", "Node.js", "Express"],
-  databases:  ["MongoDB", "PostgreSQL", "Redis"],
-  tools:      ["Git", "Docker", "REST APIs", "GraphQL"],
+  databases:  ["MongoDB", "PostgreSQL" , "MySQL"],
+  tools:      ["Git", "GitHub" , "REST APIs"],
   learning:   ["AWS", "Microservices", "System Design"],
   hobbies:    ["Open Source", "Clean Code", "Coffee ☕"],
   motto:      "Write code that humans can read, not just machines."
@@ -39,23 +39,19 @@ const awais = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-00D9FF?style=for-the-badge)
 
 ### 🗄️ Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🔧 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
