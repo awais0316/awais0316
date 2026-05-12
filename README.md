@@ -58,7 +58,7 @@ const awais = {
   name:           "Awais",
   username:       "awais0316",
   title:          "Full Stack Developer",
-  location:       "Pakistan 🇵🇰",
+  location:       "Sargodha, Pakistan",
   timezone:       "PKT (UTC+5)",
   experience:     "3+ Years",
 
